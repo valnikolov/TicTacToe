@@ -6,7 +6,7 @@ public class TicTacToe {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-
+        // Test test test
         char[][] field = new char[3][3];
 
         for (int i = 0; i < 9; i++) {
